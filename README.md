@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**shalinitiwari5033/shalinitiwari5033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 I'm currently working on:<br>Data Science, Machine Learning & Real-World Analytics Projects<br>👯 I'm looking to collaborate on:<br>Open Source Data Science, AI, and Analytics Projects<br>🤝 I'm looking for help with:<br>Advanced Machine Learning, MLOps, and Research Projects<br>🌱 I'm currently learning:<br>Python, SQL, Machine Learning, Deep Learning, and Data Visualization<br>
 
@@ -15,4 +10,6 @@ I'm currently working on:<br>Data Science, Machine Learning & Real-World Analyti
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shalinitiwari5033&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=shalinitiwari5033&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
