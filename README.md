@@ -34,7 +34,6 @@ I'm passionate about using data to solve real-world problems and building intell
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-*Note: Keep only technologies you have used and can explain in an interview. Add LangChain, FastAPI, or other AI tools when you can demonstrate them in your projects.*
 
 ---
 
@@ -54,9 +53,7 @@ An AI-powered project in development focused on assisting data analysis workflow
 
 🔗 [Explore My Repositories](https://github.com/shalinitiwari5033)
 
-*Update this section as your system's features become functional, and link directly to its repository.*
 
----
 
 ## 📈 GitHub Analytics
 
@@ -68,8 +65,6 @@ An AI-powered project in development focused on assisting data analysis workflow
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shalinitiwari5033&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
-
----
 
 ## 🤝 Connect With Me
 
